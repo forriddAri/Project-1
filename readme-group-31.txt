@@ -6,7 +6,7 @@ Open a terminal in the project root (where main.cpp is located).
 Compile:
     g++ main.cpp -o main
 
-Run (on Windows, in Command Prompt):
+Run (on Windows, in Command Prompt (NOT PowerShell!)):
     main.exe < tests\test01.SWE
 
 Run (on PowerShell, Linux, or macOS):
